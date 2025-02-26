@@ -1,4 +1,9 @@
-![👋 Hi, my name is Abdul Wasea](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/Websites-Software-Programmers-Thumbnails_1200x558.png?w=1024)
+<img 
+  src="https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/Websites-Software-Programmers-Thumbnails_1200x558.png?w=1024" 
+  alt="Profile" 
+  style="border-radius: 12px; display: block; margin: 0 auto;"
+/>
+
 
 <div id="toc">
   <ul align="center" style="list-style: none">
