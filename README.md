@@ -38,3 +38,9 @@
 - 🌱 I'm currently learning: **📚 Exploring Crew AI, Auto Gen AI**
 - 💬 Ask me about: **💡 JavaScript, React, Next.JS, Typescript, Python, Generative AI**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulwasea89&bg_color=ffffff&color=000000&line=2ec27e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
