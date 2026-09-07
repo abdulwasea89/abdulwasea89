@@ -1,7 +1,7 @@
 <img 
-  src="https://github.com/abdulwasea89/abdulwasea89/blob/main/ascii-magic-1.png" 
+  src="https://github.com/abdulwasea89/abdulwasea89/blob/main/Free%20%20Hazy%2C%20Night%2C%20View%20Background%20Images%2C%20Blur%20Night%20City%20Banner%20Photo%20Background%20PNG%20and%20Vectors.jpeg" 
   alt="Profile" 
-  style="border-radius: 12px; display: block; margin: 0 auto;"
+  style="border-radius: 12px; display: block; margin: 0 auto; width: 1200px"
 />
 
 
