@@ -1,111 +1,42 @@
-<img
-  src="https://github.com/abdulwasea89/abdulwasea89/blob/main/Free%20%20Hazy%2C%20Night%2C%20View%20Background%20Images%2C%20Blur%20Night%20City%20Banner%20Photo%20Background%20PNG%20and%20Vectors.jpeg"
-  width="100%"
-  alt="Abdul Wasea"
-/>
+### Hey, I'm Abdul Wasea
+[![X @abdulwasea89](https://img.shields.io/badge/X-@abdulwasea89-000?style=flat&logo=x)](https://x.com/abdulwasea89)
 
-<br>
+I'm a software engineer, independent researcher, and founder of **[Zhilo Labs](https://github.com/abdulwasea89)**.
 
-# Abdul Wasea
+I build AI agents, developer tools, and full-stack software. My interests are in agentic AI, long-horizon coding agents, memory systems, software reliability, and autonomous workflows.
 
-### AI Engineer · Full-Stack Developer · Product Builder
+I also conduct independent research on AI systems and the economic impact of automation.
 
-> **Building software that thinks, acts, and scales.**
+You can reach me on [LinkedIn](https://www.linkedin.com/in/abdul-wasea-964757305/) or via [email](mailto:abdulwasea5678@gmail.com).
 
-I design and build **AI-native products, intelligent agents, automation systems, and full-stack applications** — combining modern software engineering with emerging AI capabilities.
+#### Building
 
-My focus is on turning ideas into **real, usable systems**, not just prototypes.
+- **[Lexsus](https://github.com/abdulwasea89/lexsus)** [![GitHub stars](https://img.shields.io/github/stars/abdulwasea89/lexsus?style=flat&color=gold)](https://github.com/abdulwasea89/lexsus) - Local-first AI coding bridge that connects web AI agents to local development environments through MCP. Preserves project context across agents, provides filesystem and terminal tools, and supports structured memory and secure handoffs.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awrgb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wasea-964757305/)
-[![Email](https://img.shields.io/badge/Email-181818?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulwasea853@gmail.com)
+- **[Zcron](https://github.com/abdulwasea89/zcron)** [![GitHub stars](https://img.shields.io/github/stars/abdulwasea89/zcron?style=flat&color=gold)](https://github.com/abdulwasea89/zcron) - AI-native gym operations SaaS for memberships, billing, attendance, staff management, analytics, and automated retention workflows. Built with Next.js, FastAPI, PostgreSQL, and React Native.
 
----
+- **Zhilo Labs** - Software engineering and product development focused on AI-native applications, autonomous agents, developer infrastructure, and business automation.
 
-## ✦ About
+#### Research
 
-I'm a developer interested in what happens when **software stops being passive**.
+My independent research focuses on long-horizon AI agents, memory reliability, software verification, and the effects of artificial intelligence on human work.
 
-Instead of applications that simply wait for users to click buttons, I'm exploring systems where software can understand an objective, reason about the next step, use tools, interact with APIs, and complete tasks.
+- **[Causally Sound Memory Invalidation for Long-Horizon Software Engineering Agents](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7644118)** - Proposes CAVI, a framework for detecting invalid assumptions in persistent agent memory using causal dependencies, provenance, transitive invalidation, and uncertainty-aware verification.
 
-I work across the entire stack — from **interfaces and APIs to databases, infrastructure, AI agents, and automation**.
+- **[Can Humans Compete with Artificial Intelligence?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7202438)** - Research on AI-driven task automation, labor displacement, productivity, human-AI complementarity, and the future of work.
 
-My goal is simple:
+- **[Research Papers](https://github.com/abdulwasea89/research_papers)** - Collection of my research manuscripts, preprints, and technical investigations.
 
-> **Build technology that gives people leverage.**
+#### Contributing to
 
----
+- **[REA: Reverse Engineer Anything](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=flat&color=gold)](https://github.com/morluto/rea) - Concurrent configuration edit protection, canonical path handling, safe publication and conflict detection ([#4855](https://github.com/morluto/rea/pull/4855), merged). Bounded historical source imports, Git metadata limits, resource-constraint reporting, and regression tests ([#7125](https://github.com/morluto/rea/pull/7125), open).
 
-## ⚡ What I Build
+- **[AI Job Search](https://github.com/ai-job-search-dev/ai-job-search)** [![GitHub stars](https://img.shields.io/github/stars/ai-job-search-dev/ai-job-search?style=flat&color=gold)](https://github.com/ai-job-search-dev/ai-job-search) - Job scraping deduplication and context-size reduction ([#710](https://github.com/ai-job-search-dev/ai-job-search/pull/710)), robots.txt enforcement across HTTP redirects ([#680](https://github.com/ai-job-search-dev/ai-job-search/pull/680)), upstream fetch failure reporting ([#681](https://github.com/ai-job-search-dev/ai-job-search/pull/681)), and agent retrieval instruction corrections ([#638](https://github.com/ai-job-search-dev/ai-job-search/pull/638)). Also working on deadline-aware job ranking and retry fairness ([#682](https://github.com/ai-job-search-dev/ai-job-search/pull/682), open), and isolated application-attempt tracking with atomic state updates ([#781](https://github.com/ai-job-search-dev/ai-job-search/pull/781), open).
 
-<table>
-<tr>
-<td width="50%" valign="top">
+#### Currently Exploring
 
-### AI & Agents
-
-<img src="https://skillicons.dev/icons?i=python" width="45">
-
-I build systems around LLMs that can **reason, retrieve information, call tools, maintain context, and execute workflows**.
-
-`Agents` `RAG` `Tool Calling` `Memory` `Multi-Agent`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Full-Stack Products
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript" width="140">
-
-I build production-ready applications with a focus on **performance, UX, architecture, and scalability**.
-
-`SaaS` `Web Apps` `APIs` `Dashboards` `Platforms`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Automation
-
-<img src="https://skillicons.dev/icons?i=docker" width="45">
-
-Turning repetitive business processes into **reliable automated workflows**.
-
-`n8n` `Webhooks` `APIs` `Integrations` `Workflows`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Developer Tools
-
-<img src="https://skillicons.dev/icons?i=github" width="45">
-
-Tools that make developers **faster, more capable, and less constrained by repetitive work**.
-
-`CLI` `APIs` `AI Tools` `Infrastructure`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧠 The Way I Think About AI
-
-Most software looks like:
-
-```text
-USER
-  │
-  ▼
-INTERFACE
-  │
-  ▼
-APPLICATION
-  │
-  ▼
-DATABASE
+- Reliable long-horizon software engineering agents
+- Persistent memory, context engineering, and causal invalidation
+- Multi-agent orchestration and tool-use reliability
+- Agent evaluation, verification, and software correctness
+- Local-first developer infrastructure and AI-native products
