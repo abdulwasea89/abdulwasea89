@@ -11,11 +11,9 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/abdul-wasea-964757305
 
 #### Contributing to
 
-- **[REA: Reverse Engineer Anything](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=flat&color=gold)](https://github.com/morluto/rea) - Concurrent configuration edit protection, canonical path handling, safe publication and conflict detection ([#4855](https://github.com/morluto/rea/pull/4855), merged). Bounded historical source imports, Git metadata limits, resource-constraint reporting, and regression tests ([#7125](https://github.com/morluto/rea/pull/7125), open).
+- **[REA: Reverse Engineer Anything](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=flat&color=gold)](https://github.com/morluto/rea) - Concurrent configuration edit protection, canonical path handling, safe publication, and conflict detection ([#4855](https://github.com/morluto/rea/pull/4855), merged). Bounded historical source imports, Git metadata limits, resource-constraint reporting, and regression tests ([#7125](https://github.com/morluto/rea/pull/7125), open).
 
-- **[AI Job Search](https://github.com/ai-job-search-dev/ai-job-search)** [![GitHub stars](https://img.shields.io/github/stars/ai-job-search-dev/ai-job-search?style=flat&color=gold)](https://github.com/ai-job-search-dev/ai-job-search) - Job scraping deduplication and context-size reduction ([#710](https://github.com/ai-job-search-dev/ai-job-search/pull/710)), robots.txt enforcement across HTTP redirects ([#680](https://github.com/ai-job-search-dev/ai-job-search/pull/680)), upstream fetch failure reporting ([#681](https://github.com/ai-job-search-dev/ai-job-search/pull/681)), and agent retrieval instruction corrections ([#638](https://github.com/ai-job-search-dev/ai-job-search/pull/638)). Also working on deadline-aware job ranking and retry fairness ([#682](https://github.com/ai-job-search-dev/ai-job-search/pull/682), open), and isolated application-attempt tracking with atomic state updates ([#781](https://github.com/ai-job-search-dev/ai-job-search/pull/781), open).
-
-
+- **[AI Job Search](https://github.com/ai-job-search-dev/ai-job-search)** [![GitHub stars](https://img.shields.io/github/stars/ai-job-search-dev/ai-job-search?style=flat&color=gold)](https://github.com/ai-job-search-dev/ai-job-search) - Job scraping deduplication and context-size reduction ([#710](https://github.com/ai-job-search-dev/ai-job-search/pull/710), merged), robots.txt enforcement across HTTP redirects ([#680](https://github.com/ai-job-search-dev/ai-job-search/pull/680), merged), upstream fetch failure reporting ([#681](https://github.com/ai-job-search-dev/ai-job-search/pull/681), merged), and agent retrieval instruction corrections ([#638](https://github.com/ai-job-search-dev/ai-job-search/pull/638), merged). Additional contributions include filesystem symlink safety ([#845](https://github.com/ai-job-search-dev/ai-job-search/pull/845), open), resilient scraping when company metadata is missing ([#836](https://github.com/ai-job-search-dev/ai-job-search/pull/836), open), deadline-aware ranking and retry fairness ([#682](https://github.com/ai-job-search-dev/ai-job-search/pull/682), closed), and isolated application-attempt tracking ([#781](https://github.com/ai-job-search-dev/ai-job-search/pull/781), closed). Also submitted fixes for framework validation, malformed URLs, UTF-8 handling, ranking constraints, and input validation ([all pull requests](https://github.com/ai-job-search-dev/ai-job-search/pulls?q=author%3Aabdulwasea89)).
 
 #### Building
 
@@ -34,7 +32,6 @@ My independent research focuses on long-horizon AI agents, memory reliability, s
 - **[Can Humans Compete with Artificial Intelligence?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7202438)** - Research on AI-driven task automation, labor displacement, productivity, human-AI complementarity, and the future of work.
 
 - **[Research Papers](https://github.com/abdulwasea89/research_papers)** - Collection of my research manuscripts, preprints, and technical investigations.
-
 
 #### Currently Exploring
 
